@@ -1,0 +1,52 @@
+@font-face {
+    font-display: swap;
+    font-family: iranyekan;
+    font-weight: 400;
+    src: url("/assets/fonts/IRANYekanWeb-Light.eot");
+    src: url("/assets/fonts/IRANYekanWeb-Light.eot") format("embedded-opentype"),
+      url("/assets/fonts/IRANYekanWeb-Light.woff") format("woff"),
+      url("/assets/fonts/IRANYekanWeb-Light.ttf") format("truetype");
+  }
+  @font-face {
+    font-display: swap;
+    font-family: iranyekan;
+    font-weight: 500;
+    src: url("/assets/fonts/IRANYekanWeb-Medium.eot");
+    src: url("/assets/fonts/IRANYekanWeb-Medium.eot") format("embedded-opentype"),
+      url("/assets/fonts/IRANYekanWeb-Medium.woff") format("woff"),
+      url("/assets/fonts/IRANYekanWeb-Medium.ttf") format("truetype");
+  }
+  @font-face {
+    font-display: swap;
+    font-family: iranyekan;
+    font-weight: 600;
+    src: url("/assets/fonts/IRANYekanWeb-Bold.eot");
+    src: url("/assets/fonts/IRANYekanWeb-Bold.eot") format("embedded-opentype"),
+      url("/assets/fonts/IRANYekanWeb-Bold.woff") format("woff"),
+      url("/assets/fonts/IRANYekanWeb-Bold.ttf") format("truetype");
+  }
+  @font-face {
+    font-display: swap;
+    font-family: iranyekan;
+    font-weight: 600;
+    src: url("/assets/fonts/IRANYekanWeb-ExtraBold.eot");
+    src: url("/assets/fonts/IRANYekanWeb-ExtraBold.eot")
+        format("embedded-opentype"),
+      url("/assets/fonts/IRANYekanWeb-ExtraBold.woff") format("woff"),
+      url("/assets/fonts/IRANYekanWeb-ExtraBold.ttf") format("truetype");
+  }
+  @font-face {
+    font-display: swap;
+    font-family: iranyekan;
+    font-weight: 600;
+    src: url("/assets/fonts/IRANYekanWeb-ExtraBlack.woff");
+    src: url("/assets/fonts/IRANYekanWeb-ExtraBlack.eot")
+        format("embedded-opentype"),
+      url("/assets/fonts/IRANYekanWeb-ExtraBlack.woff") format("woff"),
+      url("/assets/fonts/IRANYekanWeb-ExtraBlack.ttf") format("truetype");
+  }
+  © 2022 GitHub, Inc.
+  Terms
+  Privacy
+  Security
+  
